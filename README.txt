@@ -1,0 +1,33 @@
+Python version: 3.10.19
+R version: 4.5.2
+
+R packages
+sva: 3.52.0
+clusterProfiler: 4.18.4
+fgsea: 1.36.2
+GSVA: 2.6.6
+impute: 1.84.0
+BiocParallel: 1.44.0
+caret: 7.0.1
+jsonlite: 2.0.0
+ggplot2: 4.0.3
+ggalluvial: 0.12.6
+
+Python packages
+SimpleITK: 2.3.1
+scipy: 1.15.3
+pyradiomics: 3.0.1
+scikit-learn: 1.7.2
+statsmodels: 0.14.1
+numpy: 1.26.3
+pandas: 2.3.3
+joblib: 1.5.3
+Pillow: 12.0.0
+shapely: 2.1.2
+scikit-image: 0.25.2
+openslide-python: 1.4.3
+tifffile: 2025.5.10
+staintools: 2.1.2
+Boruta: 0.4.3
+shap: 0.49.1
+matplotlib: 3.10.8
